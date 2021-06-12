@@ -1,6 +1,6 @@
 applications:
     - path: .
       instances: 1
-      name: cfcgamem
-      host: cfcgamem
+      name: myhungerapp
+      host: myhungerapp
       buildpack: sdk-for-nodejs
